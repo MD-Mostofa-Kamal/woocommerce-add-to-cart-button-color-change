@@ -24,3 +24,18 @@ Add the following CSS code:
     color: #ffffff; /* Change this to the desired text color on hover */
 }
 
+Steps to Change the "Add to Cart" Button Color on Archive Pages
+
+.add_to_cart_button {
+    background-color: #ff0000; /* Change this to the desired background color */
+    color: #ffffff; /* Change this to the desired text color */
+}
+
+.add_to_cart_button:hover {
+    background-color: #cc0000; /* Change this to the desired background color on hover */
+    color: #ffffff; /* Change this to the desired text color on hover */
+}
+
+
+
+
