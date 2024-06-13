@@ -2,7 +2,7 @@
 
 To change the color of the "Add to Cart" button in WooCommerce, you'll need to add some custom CSS to your theme. Specifically, you'll be targeting the .single_add_to_cart_button class. Here's how you can do it:
 
-##Sometimes, plugins and themes can conflict with your CSS. To avoid this, ensure your CSS classes or IDs are correctly specified, and then paste the following code.
+#Sometimes, plugins and themes can conflict with your CSS. To avoid this, ensure your CSS classes or IDs are correctly specified, and then paste the following code.
 
 
 Steps to Change the "Add to Cart" Button Color
